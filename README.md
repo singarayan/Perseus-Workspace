@@ -18,9 +18,16 @@ Automation Scripts developed and tested in:
 
 3. Execute instructions
 -----------------------
+
+Execute via commandline
+-----------------------
 - Step : 1 - Download uploaded folder - Perseus
 - Step : 2 - Run task.batch file
 - Step : 3 - Verify the results created result.txt
-- Step : 4 - PreRequisite to install Docker in Windows 
-- Step : 5 - Run the Docker file to create application image
-- Step : 6 - Deploy the Image in pod/container.
+
+Execute as a Docker File
+------------------------
+
+- Step : 1 - PreRequisite to install Docker in Windows 
+- Step : 2 - Run the Docker file to create application image
+- Step : 3 - Deploy the Image in pod/container.
