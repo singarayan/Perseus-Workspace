@@ -4,7 +4,7 @@ Automation Testing Task
 
 1. Description
 --------------
-Attached ZIP file contains program to Automate https://haveibeenpwned.com/ to verify given email id getting expected pwned-warning 
+Attached contains program to Automate https://haveibeenpwned.com/ to verify given email id getting expected pwned-warning 
 
 2. System Requirements
 ----------------------
