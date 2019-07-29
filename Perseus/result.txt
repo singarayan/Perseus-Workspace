@@ -1,0 +1,4 @@
+---------------------------------- 29/07/2019 01:42:45 ----------------------------- 
+D:\Perseus
+Pwned Emails List :,test@something.com,singarayann@gmail.com,xyz123456@hotmail.com
+No Pwned Emails List :,qwerty@somehting.com,Test12323432434@gmail.com,Test3432434@gmail.com
